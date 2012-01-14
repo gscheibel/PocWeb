@@ -4,7 +4,7 @@
 
 <web-app>
 	<display-name>Archetype Created Web Application</display-name>
-	<security-constraint>
+<!-- 	<security-constraint>
 		<web-resource-collection>
 			<web-resource-name>The entire webapp</web-resource-name>
 			<url-pattern>/*</url-pattern>
@@ -19,5 +19,5 @@
 	</login-config>
 	<security-role>
 		<role-name>cms_admin</role-name>
-	</security-role>
+	</security-role> -->
 </web-app>
